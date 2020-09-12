@@ -6,9 +6,8 @@
 
 ### В результате тестирования выявлены следующие дефекты:
 
-* [bug report#1](https://github.com/Alen-Elzner/KeyValidator/issues/1)
-* [bug report#2](https://github.com/Alen-Elzner/KeyValidator/issues/2)
-* [bug report#3](https://github.com/Alen-Elzner/KeyValidator/issues/3)
+* [Валидный ключ считается невалидным](https://github.com/Alen-Elzner/KeyValidator/issues/1)
+* [НЕвалидный ключ считается валидным](https://github.com/Alen-Elzner/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
